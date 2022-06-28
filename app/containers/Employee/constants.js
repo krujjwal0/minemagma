@@ -1,0 +1,10 @@
+export const SHOW_EMPLOYEE = 'SHOW_EMPLOYEE';
+export const SET_EMPLOYEE = 'SET_EMPLOYEE';
+export const ADD_USER = 'ADD_USER';
+export const EDIT_USER = 'EDIT_USER';
+export const DELETE_USER = 'DELETE_USER';
+export const GET_ALL_ROLES = 'GET_ALL_ROLES';
+export const GET_ALL_DEPARTMENTS = 'GET_ALL_DEPARTMENTS';
+export const SET_ALL_ROLES = 'SET_ALL_ROLES';
+export const SET_ALL_DEPARTMENTS = 'SET_ALL_DEPARTMENTS';
+export const SET_EDIT_USER_DATA = 'SET_EDIT_USER_DATA';
